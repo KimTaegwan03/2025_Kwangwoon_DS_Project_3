@@ -73,7 +73,7 @@ bool Manager::mFLOYD(char option)
 	
 }
 
-bool Manager::mCentrality(int vertex) {
+bool Manager::mCentrality() {
 	
 }
 
